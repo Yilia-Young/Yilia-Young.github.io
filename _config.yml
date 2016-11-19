@@ -71,7 +71,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "在你停下来的时候  不要忘记别人还在后面奔跑  不要忘记别人就在你眼前  只差一步而已"
-sidebar-avatar: /img/1.37MB.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/1.37MB.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
