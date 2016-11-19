@@ -4,7 +4,7 @@ title:      "Hello github"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2016-11-19 20:00:00
 author:     "Yilia"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-xitang.jpg"
 catalog: true
 tags:
     - 生活
@@ -17,14 +17,13 @@ tags:
 
 我从来不知道程序员的世界也可以这么诗意。
 
-[跳过废话，直接看技术实现 ](#build) 
+
 
 
 
 2016 年，Yilia竟然被GitHub黑洞吸收，莫名地来一探究竟。
 
-
-作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
+谁知道自己会干这个，全都是在自己的学习范围内呆的有点腻了，跑出来找食。
 
 在玩了一段时间知乎之后，答题的快感又激起了我开博客的冲动。之前的[个人网站](http://huangxuan.me/portfolio)是作品集形式的（现在集成进来了），并不适合用来写博文，一不做二不休，花一天搞一个吧！
 
