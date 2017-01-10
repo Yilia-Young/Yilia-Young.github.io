@@ -17,7 +17,7 @@ header-img: "img/post-bg-cartoon-xiangsi.jpg"
     <br>正文。
     <br>
     <br>“中国唱诗班”系列动画第一集《元日》已于2016年元旦推出<b>到了2017年，它们终于被人们发现了啊 </b>。
-    <br> <img class="shadow" src="/img/in-post/post-cartoon-yuanri.jpg" width="260">
+    <br> <img class="shadow" src="/img/in-post/post-cartoon-yuanri.jpg" >
     <br>
     <br>初进阿里时还不习惯，想着6点下班后，吃个免费晚饭，赶快坐地铁回家。
     <br>后来一是发现高峰期的地铁简直要命，二是确实有太多需求做不完， 平常经常会说： “这个我们晚上再谈…”
