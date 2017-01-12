@@ -16,8 +16,8 @@ header-img: "img/post-bg-cartoon-xiangsi.jpg"
     <br>
     <br>正文#
     <br>
-    <br>“中国唱诗班”系列动画第一集（http://www.vmovier.com/47880?from=search_post）[元日] 已于2016年元旦推出,<b>到了2017年，它们终于被人们发现了！</b>。
-    <br> <img class="shadow" src="https://github.com/Yilia-Young/Yilia-Young.github.io/blob/master/img/post-bg-cartoon-yuanri.jpg" width="260">
+    <br>“中国唱诗班”系列动画第一集 [元日](http://www.vmovier.com/47880?from=search_post) 已于2016年元旦推出,<b>到了2017年，它们终于被人们发现了！</b>。
+    <br> <img class="shadow" src="https://github.com/Yilia-Young/Yilia-Young.github.io/blob/master/img/post-bg-cartoon-yuanri.jpg" >
     <br>
     <br>  《元日》是《中国唱诗班》系列动画作品中的一集，是一部以经典古诗为故事主旨，以嘉定民间故事传说为故事梗概的动画短片，短片以精湛的制作水准上演了一场“最炫民族风”。
     <br>
@@ -31,7 +31,7 @@ header-img: "img/post-bg-cartoon-xiangsi.jpg"
     <br>
     <br>  [《相思》](http://www.vmovier.com/50750?from=search_post)里的故事以寄寓相思情的“红豆”为线索，牵出了出生名门贵族的六娘和寒门学子初桐从小情投意合却无法厮守的故事。作为一部以古典文学作品为基础的纯手绘动画，短片在画面意境上也具有中国特色。用色清淡雅致，与故事背景相得益彰。辅以细腻的人物刻画和贴合的音乐，美好却注定悲剧的爱情也增添了一份余韵颇长的古典气息。<b>小秀才年幼即能背诵王维之《红豆》：红豆生南国，春来发几枝。愿君多采撷，此物最相思。</b>
     <br>
-    <img class="shadow" src="https://github.com/Yilia-Young/Yilia-Young.github.io/blob/master/img/post-bg-cartoon-poem.jpg" width="260">
+    <img class="shadow" src="https://github.com/Yilia-Young/Yilia-Young.github.io/blob/master/img/post-bg-cartoon-poem.jpg" >
     <br>  唱诗班对小国漫的创造性也体现在了它的继承性，难能可贵的是对中国传统文化的珍惜与传承<b>如果在记得这种纯粹的习俗与记挂感情的方式，那么寂寥感应该就不会这么强烈的。</b>
     <br>
     <br>  我很期待接下来他们还会给我们带来什么惊喜~我觉得自己对于自己国家的动画真的没什么发言权，我也不必要崇洋媚外说人家国家的动画如何如何好，只是我不在那一行，不懂行，更应该做的是肯定我们担忧的事情一定是有人在倾力在改善的。对于国外的正能量的动漫，譬如我一直喜欢的宫崎骏爷爷的动画电影，前不久略有接触的《火影》，还有听无数人在我耳边称道过的《海贼王》……动画片是个好东西，从一幅画到每一帧的呈现，的确是用尽了心力在给欣赏他的人传导一种正能量的价值观、世界观，真理不是完全成立的，但是在动画给我们供的背景与场景里，它是温暖和坚定的，是值得信赖和坚持的。
