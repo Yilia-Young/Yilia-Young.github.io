@@ -1,23 +1,20 @@
 ---
 layout:     post
-title:      "「知乎」如何评价 2015 年 3 月 9 日 Apple 春季发布会？"
-subtitle:   "聊聊科技与新式奢侈品"
-date:       2015-03-10 12:00:00
-author:     "Hux"
+title:      "身在重庆，无尽山行"
+subtitle:   "山城，雨城，不夜城--"
+date:       2017-02-16 22:00:00
+author:     "Yilia"
 header-img: "img/post-bg-apple-event-2015.jpg"
 tags:
-    - 知乎
-    - 职业病
-    - Apple
-    - Macbook
-    - Apple Watch
+    - Life
+
 ---
 
 > <embed src="//music.163.com/style/swf/widget.swf?sid=451126768&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 
 <div>
-    <blockquote>一个 gay，一个 gay-like ，带着 Apple 向着<b>新式奢侈品</b>的方向飞去了。</blockquote>
+    <blockquote><b>新式奢侈品</b>的方向飞去了。</blockquote>
     <br>无论是 Apple Watch ，还是 new MacBook，这次发布会都象征着 Apple 更明显的转型。
     <br>
     <br>不应该再把 Apple 跟 Microsoft 简单粗暴的对比，它们的受众产生了愈大的差异。两家公司对数字时代有着完全不同的战略，它们改变世界的思路，跟盖茨-乔布斯时代比有着更巨大的分歧。
