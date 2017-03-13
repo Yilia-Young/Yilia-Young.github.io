@@ -17,7 +17,8 @@ header-img: "img/post-bg-cartoon-xiangsi.jpg"
     <br>正文#
     <br>
     <br>“中国唱诗班”系列动画第一集《元日》已于2016年元旦推出,<b>到了2017年，它们终于被人们发现了！</b>。
-    <br><img>post-bg-cartoon-yuanri.jpg
+    <br>
+    <img class="shadow" src="https://github.com/Yilia-Young/Yilia-Young.github.io/blob/master/img/post-bg-cartoon-yuanri.jpg" >
     <br>
     <br>  《元日》是《中国唱诗班》系列动画作品中的一集，是一部以经典古诗为故事主旨，以嘉定民间故事传说为故事梗概的动画短片，短片以精湛的制作水准上演了一场“最炫民族风”。
     <br>
