@@ -17,7 +17,7 @@ header-img: "img/post-bg-cartoon-xiangsi.jpg"
     <br>正文#
     <br>
     <br>“中国唱诗班”系列动画第一集《元日》已于2016年元旦推出,<b>到了2017年，它们终于被人们发现了！</b>。
-    <br> ![元日](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%85%83%E6%97%A5%E5%8A%A8%E6%BC%AB%E5%9B%BE%E7%89%87&step_word=&hs=2&pn=15&spn=0&di=87383668130&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3124683500%2C3941380300&os=1906364683%2C1282590415&simid=3400471523%2C291337890&adpicid=0&lpn=0&ln=1059&fr=&fmq=1489390078834_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fcs.vmovier.com%2FUploads%2Fpost%2F2015-11-16%2F564994819f26f.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Be45etj6_z%26e3Bv54AzdH3F90bba&gsm=0&rpstart=0&rpnum=0)
+    <br> ![元日](http://cs.vmovier.com/Uploads/post/2015-11-16/564994819f26f.jpg)
     <br>
     <br>  《元日》是《中国唱诗班》系列动画作品中的一集，是一部以经典古诗为故事主旨，以嘉定民间故事传说为故事梗概的动画短片，短片以精湛的制作水准上演了一场“最炫民族风”。
     <br>
