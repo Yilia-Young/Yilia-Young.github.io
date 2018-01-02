@@ -91,6 +91,6 @@ service-worker: true
 friends: [
     {
         title: "Mageluer",
-        href: "https://Mageluer.github.io"
+        href: "https://Mageluer.coding.me"
     }
 ]
